@@ -11,7 +11,7 @@ export const DATA = {
     "Crafting seamless digital experiences, I blend innovation with code to build intuitive, visually engaging web applications that connect users and technology effortlessly.",
   summary:
     "I am a passionate full-stack developer specializing in creating dynamic, responsive, and user-friendly web applications.With proficiency in HTML, CSS, JavaScript, React, and Next.js, I bring creativity and technical expertise to every project. My portfolio showcases a range of work, from modern web design to cutting-edge development, each tailored to meet specific client needs",
-  avatarUrl: "/me.png",
+  avatarUrl: "/shami2.jpg",
   skills: [
     "Html",
     "Css",
