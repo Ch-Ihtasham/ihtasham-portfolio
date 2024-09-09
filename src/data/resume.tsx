@@ -76,7 +76,7 @@ export const DATA = {
       badges: [],
       location: "Faisalabad",
       title: "CEO",
-      logoUrl: "/atomic.png",
+      logoUrl: "/quillogo.webp",
       start: "May 2024",
       end: "Present",
       description:
@@ -88,7 +88,7 @@ export const DATA = {
       href: "https://edifycit.com/",
       location: "Remote",
       title: "Full Stack Developer",
-      logoUrl: "/shopify.svg",
+      logoUrl: "/edify.png",
       start: "Feb 2024",
       end: "Present",
       description:
@@ -125,7 +125,7 @@ export const DATA = {
       school: "Edify College of IT",
       href: "https://edifycit.com/",
       degree: "Web Development",
-      logoUrl: "/ib.png",
+      logoUrl: "/edify.png",
       start: " Oct 2023",
       end: " Jan 2024",
     },
