@@ -3,8 +3,8 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Ch Ihtaham",
-  initials: "DV",
-  url: "https://dillion.io",
+  initials: "ihtasham",
+  url: "https://ihtasham-portfolio-xi.vercel.app/",
   location: "Faisalabad, Punjab, Pakistan",
   locationLink: "https://www.google.com/maps/place/faisalabad",
   description:
@@ -94,7 +94,7 @@ export const DATA = {
       description:
         "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
     },
-   
+
   ],
   education: [
     {
