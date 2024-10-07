@@ -130,6 +130,7 @@ export const DATA = {
       end: " Jan 2024",
     },
   ],
+  
   projects: [
     {
       title: "Chat Collect",
